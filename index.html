@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery & AJAX Проект</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Каталог товарів</h1>
+        <button id="load-btn">Завантажити дані</button>
+    </header>
+
+    <main>
+        <div id="loader" class="hidden">
+            <div class="spinner"></div>
+            <p>Завантаження даних...</p>
+        </div>
+
+        <div id="error-message" class="hidden">
+            <p>Помилка: Не вдалося завантажити дані. Перевірте URL або підключення.</p>
+        </div>
+
+        <div id="content-container" class="grid-container"></div>
+    </main>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

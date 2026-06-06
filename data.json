@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Ноутбук Pro Max",
+    "description": "Потужний ноутбук для роботи з графікою та кодингу.",
+    "price": "45 000 грн",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtTf0w5MAXImuaaE4brDqC3O3kLylNlhLfusDBNNA9DkSxp9fjq-W9Mkc&s=10"
+  },
+  {
+    "id": 2,
+    "title": "Смартфон NextGen",
+    "description": "Флагманський смартфон із неймовірною камерою.",
+    "price": "28 000 грн",
+    "image": "https://mobileplanet.ua/uploads/product/2025-9-11/apple-iphone-17-pro-max-256gb-cosmic-orange-mfyn4-354275.webp"
+  },
+  {
+    "id": 3,
+    "title": "Бездротові Навушники",
+    "description": "Чистий звук та активне шумозаглушення.",
+    "price": "6 500 грн",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwZdHqi7dzAykGn0HgHVXHYPCZEQOMQ-ALzO-urR4t8Qu8hl6ib_H4HQA&s=10"
+  }
+]
